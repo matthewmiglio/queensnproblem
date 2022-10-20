@@ -1,12 +1,7 @@
-// Board.java
 // MATTHEW MIGLIO
-// CS-203-01 ASSIGNMENT 1
-//TURINI
-//
-//Makes the board object that is used by 
-//either algorithm when finding solutions
-//designates methods for placing queens,
-// moving columns, and checking axies of attack as to check for board solutions.
+//BruteForce.java
+
+//Solves the queens N problem with brute force
 
 
 import java.util.Random;

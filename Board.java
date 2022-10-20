@@ -1,8 +1,6 @@
-// Board.java
 // MATTHEW MIGLIO
-// CS-203-01 ASSIGNMENT 1
-//TURINI
-//
+// Board.java
+
 //Makes the board object that is used by 
 //either algorithm when finding solutions
 //designates methods for placing queens,

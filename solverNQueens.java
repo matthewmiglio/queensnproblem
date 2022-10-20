@@ -1,3 +1,10 @@
+// MATTHEW MIGLIO
+//solverNQueens.java
+
+//Solves the queens N problem with recursive column swapping
+
+
+
 import java.util.Random;
 
 
